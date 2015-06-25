@@ -1,0 +1,4 @@
+Geolocation.MainActivity, Geolocation;md5433d242f3e3f26b90c7f91b73222755f.MainActivity
+Geolocation.MainActivity, Geolocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5433d242f3e3f26b90c7f91b73222755f.MainActivity
+Geolocation.MainActivity;md5433d242f3e3f26b90c7f91b73222755f.MainActivity
+geolocation.MainActivity;md5433d242f3e3f26b90c7f91b73222755f.MainActivity

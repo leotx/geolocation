@@ -1,0 +1,14 @@
+C:\projects\Geolocation\Geolocation\bin\Debug\Geolocation.dll
+C:\projects\Geolocation\Geolocation\bin\Debug\Geolocation.pdb
+C:\projects\Geolocation\Geolocation\bin\Debug\Geolocation.dll.mdb
+C:\projects\Geolocation\Geolocation\bin\Debug\Geolocation.Geolocation.apk
+C:\projects\Geolocation\Geolocation\bin\Debug\Geolocation.Geolocation-Signed.apk
+C:\projects\Geolocation\Geolocation\obj\Debug\Geolocation.csprojResolveAssemblyReference.cache
+C:\projects\Geolocation\Geolocation\obj\Debug\Geolocation.dll
+C:\projects\Geolocation\Geolocation\obj\Debug\Geolocation.pdb
+C:\projects\Geolocation\Geolocation\obj\Debug\android\bin\Geolocation.Geolocation.apk
+C:\projects\Geolocation\Geolocation\obj\Debug\res\layout\main.xml
+C:\projects\Geolocation\Geolocation\obj\Debug\res\values\strings.xml
+C:\projects\Geolocation\Geolocation\obj\Debug\res\drawable-hdpi\icon.png
+C:\projects\Geolocation\Geolocation\obj\Debug\R.cs.flag
+C:\projects\Geolocation\Geolocation\obj\Debug\uploadflags.txt
